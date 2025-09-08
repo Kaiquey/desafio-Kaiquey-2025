@@ -1,8 +1,25 @@
 # desafio-Kaiquey-2025
+
 # ABRIGO DE ANIMAIS
 
+# Desafio StartDB 2025
+Este projeto é uma solução para o desafio de lógica e testes automatizados com o próprio Node.js.
 
-## O DESAFIO
+# Como clonar e rodar meu código
+```bash
+git clone https://github.com/Kaiquey/desafio-Kaiquey-2025.git
+cd desafio-Kaiquey-2025
+```
+# Para baixar o zip
+Clique em Code > ***Download ZIP***
+Extraia o arquivo e acesse a pasta extraida pelo terminal:
+Depois rode abaixo:
+```bash
+npm install
+npm test
+```
+
+## O DESAFIO PROPOSTO:
 Olá! Você foi contratado para ajudar na organização de um abrigo de animais.
 Sua missão será encontrar pessoas aptas a levar os animais para casa.
 
