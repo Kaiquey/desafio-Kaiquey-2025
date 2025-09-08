@@ -12,7 +12,7 @@ Este projeto é um desafio de lógica e testes automatizados com Node.js.
 
 ```bash
 git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO ```
+cd SEU_REPOSITORIO 
 
 
 
