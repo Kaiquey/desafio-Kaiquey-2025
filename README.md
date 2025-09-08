@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # desafio-Kaiquey-2025
 =======
 # ABRIGO DE ANIMAIS
@@ -119,4 +118,3 @@ export { AbrigoAnimais as AbrigoAnimais };
 Se todos os passos forem seguidos corretamente, você terá um repositório como o da figura abaixo (lembrando que é permitido criar mais arquivos), onde `seuUsername` é o seu usuário do GitHub, que você informou no questionário da Gupy.
 
 ![Exemplo de repositório](estrutura-repositorio.png)
->>>>>>> e092943 (Setting Up)
