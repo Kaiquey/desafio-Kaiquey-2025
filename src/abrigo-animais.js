@@ -1,8 +1,9 @@
 import { animais } from "./Pets.js";
 
 const aptidao = (brinquedosPessoa, animal) => {
-  const pessoa = Array.isArray(brinquedosPessoa) ? brinquedosPessoa.map(b => b && b.trim()) : [];
-  const brinquedosAnimal = Array.isArray(animal.brinquedos) ? animal.brinquedos.map(b => b && b.trim()) : [];
+
+  const pessoa = brinquedosPessoa.map(toyP => toyP && toyP.trim());
+  const brinquedosAnimal = animal.brinquedos.map(ToyAnimal => ToyAnimal && ToyAnimal.trim());
   if (animal.nome === 'Loco') {
     const brinquedosCompletos = brinquedosAnimal.every(toy => pessoa.includes(toy));
     return brinquedosCompletos;
@@ -66,4 +67,4 @@ class AbrigoAnimais {
     return { lista: resultadoFinal, erro: null };
   }
 }
-export { AbrigoAnimais as AbrigoAnimais };
+export { AbrigoAnimais as AbrigoAnimais};
