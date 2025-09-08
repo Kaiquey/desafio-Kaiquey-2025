@@ -2,20 +2,6 @@
 # ABRIGO DE ANIMAIS
 
 
-# Desafio StartDB 2025
-
-Este projeto é um desafio de lógica e testes automatizados com Node.js.
-
-## Como instalar e rodar
-
-1. **Clone o repositório ou baixe o ZIP:**
-
-```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO 
-
-
-
 ## O DESAFIO
 Olá! Você foi contratado para ajudar na organização de um abrigo de animais.
 Sua missão será encontrar pessoas aptas a levar os animais para casa.
