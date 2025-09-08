@@ -7,7 +7,7 @@ git clone https://github.com/Kaiquey/desafio-Kaiquey-2025.git
 cd desafio-Kaiquey-2025
 ```
 # Para baixar o zip
-Clique em Code > ***Download ZIP***
+Clique em ***Code*** > ***Download ZIP***
 Extraia o arquivo e acesse a pasta extraida pelo terminal:
 Depois rode abaixo:
 ```bash
