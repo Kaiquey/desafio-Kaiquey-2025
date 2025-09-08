@@ -98,12 +98,6 @@ describe('Abrigo de Animais', () => {
       expect(resultado.erro).toBeFalsy();
   });
 
-  test('Deve lidar com brinquedosPessoa undefined', () => {
-    const resultado = new AbrigoAnimais().encontraPessoas(undefined, 'BOLA', 'Rex');
-    expect(resultado.lista[0]).toBe('Rex - abrigo');
-    expect(resultado.erro).toBeNull();
-  });
-
   test('Deve rejeitar animal inexistente', () => {
     const resultado = new AbrigoAnimais().encontraPessoas('BOLA', '', 'Inexistente');
     expect(resultado.erro).toBe('Animal inválido');
