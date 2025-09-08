@@ -1,7 +1,3 @@
-# desafio-Kaiquey-2025
-
-# ABRIGO DE ANIMAIS
-
 # Desafio StartDB 2025
 Este projeto é uma solução para o desafio de lógica e testes automatizados com o próprio Node.js.
 
